@@ -1,0 +1,110 @@
+{
+ "country": "LAOS",
+ "country_lines": [
+  "LAOS"
+ ],
+ "s2": {
+  "answer": "BARELY.",
+  "p1": "Laos has **no WDSF member** federation. A Lao DanceSports Federation (LADSF) was set up only recently, and years of advocacy won it a National Games spot.",
+  "p2": "Partner dancing lives in salsa and bachata classes, like those at ==Fanglao Dance Studio== in Vientiane. The national dance is the **lamvong**."
+ },
+ "s3": {
+  "number": "8",
+  "line1": "counts in",
+  "line2": "every cycle",
+  "p": "Lamvong dancers count from **one to eight**, again and again, for the whole song. The count sets where the feet and hands go."
+ },
+ "s4": {
+  "top": "B-boy",
+  "key": "KA-G",
+  "bottom": "2024",
+  "p1": "**Phetnilan “Golf” Keovongsy** won the Lao HipHop Festival 2024, then went to Kaohsiung, Taiwan, as Laos’s only competitor.",
+  "p2": "He finished ==third== in the solo battle. In 2024 he trained at **That Luang**, 6 to 9 pm, and invited anyone to join."
+ },
+ "s5": [
+  {
+   "name": "LAMVONG",
+   "meta": "UNESCO-LISTED · EVERY WEDDING",
+   "p": "Born as a **rice-harvest** dance around a bale of rice. Men circle inside, women outside, counterclockwise. It is an essential part of every wedding party."
+  },
+  {
+   "name": "LAO RAMAYANA",
+   "meta": "ROYAL COURT · LUANG PRABANG",
+   "p": "**Phra Lak Phra Lam**, the Lao Ramayana, came with Buddhist missions centuries ago. Royal dancers once performed it for the king."
+  }
+ ],
+ "s6": {
+  "top": "The",
+  "key": "RAMAYANA",
+  "bottom": "comes back",
+  "y1": "",
+  "y2": "",
+  "p": "After the **1975 revolution**, the royal dance-drama fell out of favour for years. Revived from the 1990s, it got its own Luang Prabang theatre in 2003."
+ },
+ "s7": {
+  "year": "2024",
+  "line1": "Lamvong joins",
+  "line2": "UNESCO list",
+  "p": "Inscribed as Intangible Cultural Heritage of Humanity on **5 December**. On New Year’s Eve, **thousands** joined a lamvong tribute at Patuxay Park, Vientiane.",
+  "tag": "NATIONAL GAMES",
+  "p2": "In 2025, DanceSport was approved as a **National Games** medal sport for the first time, with breaking, couple and team events."
+ },
+ "sources": [
+  {
+   "claim": "Laos not listed among WDSF Asian members (full or provisional)",
+   "url": "https://en.wikipedia.org/wiki/World_DanceSport_Federation"
+  },
+  {
+   "claim": "Lao DanceSports Federation (LADSF) recently established after years of advocacy; DanceSport approved 23 May 2025 as first-ever medal event at 12th National Games; breaking 1v1, couple and team (6-8) categories; Vientiane",
+   "url": "https://www.tourismlaos.org/2025/06/10/dancesport-to-be-included-in-national-games-medal-competitions/"
+  },
+  {
+   "claim": "12th National Games held 15-25 November 2025 in Vientiane",
+   "url": "https://kpl.gov.la/EN/detail.aspx?id=95732"
+  },
+  {
+   "claim": "Fanglao Dance Studio, Vientiane Center: salsa and bachata classes",
+   "url": "https://www.salsavida.com/?p=41993"
+  },
+  {
+   "claim": "Lamvong: couples, men inner circle, women outer, counterclockwise, eight-count cycles setting feet and hands; weddings to conferences; inscribed 2024 (19.COM, Representative List)",
+   "url": "https://ich.unesco.org/en/RL/fonelamvonglao-lamvonglao-02099"
+  },
+  {
+   "claim": "19.COM held in Asunción, 2024; decision 19.COM 7.B.46",
+   "url": "https://ich.unesco.org/en/decisions/19.COM/7.B.46"
+  },
+  {
+   "claim": "Inscribed 5 December 2024; rice-harvest origin around a central bale of rice; required part of every wedding party; national dance",
+   "url": "https://vientianetimes.org.la/freefreenews/freecontent_238_UNESCO_y24.php"
+  },
+  {
+   "claim": "Inscription 5 December 2024, announced in Paraguay; men inner circle, women outer; harvest origin",
+   "url": "https://kpl.gov.la/EN/detail.aspx?id=87817"
+  },
+  {
+   "claim": "New Year's Eve 2024 lamvong celebration at Patuxay Park, Vientiane, attended by thousands",
+   "url": "https://vientianetimes.org.la/freefreenews/freecontent_001_Heritage_y25.php"
+  },
+  {
+   "claim": "Bboy KA-G (Phetnilan 'Golf' Keovongsy): won Lao HipHop Festival 2024, Laos's only representative, third in single battle at Kaohsiung 2024, practises at That Luang 6-9 pm and invites others",
+   "url": "https://www.tourismlaos.org/2024/10/29/lao-dancer-phetnilan-golf-keovongsy-wins-third-at-kaohsiung-breaking-championship/"
+  },
+  {
+   "claim": "Ramayana brought to Luang Prabang by Buddhist missions centuries ago; Phralak Phralam Theatre established 2003",
+   "url": "https://tourismluangprabang.org/?p=3210"
+  },
+  {
+   "claim": "Royal Dancers performed for the King; after the 1975 revolution the Ramayana fell out of favour and was not performed for many years; re-established from the 1990s",
+   "url": "https://www.luangprabangculture.com/nagas-and-phra-lak-phra-lam.html"
+  },
+  {
+   "claim": "Phra Lak Phra Lam banned after 1975 (cross-check of the 1975 break)",
+   "url": "https://holeinthedonut.com/?p=14579"
+  },
+  {
+   "claim": "Dance-dramas originally performed only for the royal court; lam vong considered the national dance (cross-check)",
+   "url": "https://en.wikipedia.org/wiki/Dance_and_theatre_of_Laos"
+  }
+ ]
+}

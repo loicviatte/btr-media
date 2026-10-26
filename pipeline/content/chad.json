@@ -1,0 +1,122 @@
+{
+ "country": "CHAD",
+ "country_lines": [
+  "CHAD"
+ ],
+ "s2": {
+  "answer": "NOT REALLY.",
+  "p1": "Chad has **no member** in the World DanceSport Federation. Its stages belong to traditional and contemporary dance.",
+  "p2": "In 2018, N’Djamena’s **Souar Souar** dance festival held its 7th edition. Its name means ==“Come, come and dance together!”=="
+ },
+ "s3": {
+  "number": "31",
+  "line1": "traditional",
+  "line2": "dances",
+  "p": "were performed at Place de la Nation in N’Djamena on **11 August 2026**, for the 66th anniversary of Chad’s independence."
+ },
+ "s4": {
+  "top": "The film",
+  "key": "GRIGRIS",
+  "bottom": "Cannes 2013",
+  "p1": "A young man with a **paralysed leg** is admired on N’Djamena’s dance floors. It was inspired by real dancer **Souleymane Démé**.",
+  "p2": "Mahamat-Saleh Haroun’s film competed for the ==Palme d’Or==, and won the Vulcan prize for its cinematography."
+ },
+ "s5": [
+  {
+   "name": "SAÏ",
+   "meta": "MANDOUL · MEN AND WOMEN",
+   "p": "A **collective dance** where men and women dance together, presented as a symbol of unity and social cohesion."
+  },
+  {
+   "name": "RICHAT",
+   "meta": "SILA · THE FAN DANCE",
+   "p": "The **fan dance** of eastern Chad. It was historically reserved for **royal circles**."
+  }
+ ],
+ "s6": {
+  "top": "The men",
+  "key": "DANCE",
+  "bottom": "to be chosen",
+  "y1": "",
+  "y2": "",
+  "p": "At the **Gerewol**, Wodaabe men paint their faces and dance in lines, rolling their eyes and flashing their teeth. **Women** pick the winners with a tap."
+ },
+ "s7": {
+  "year": "2025",
+  "line1": "Guruna joins",
+  "line2": "UNESCO list",
+  "p": "A Massa retreat where boys and men learn **wrestling, music and dance** with their cattle becomes Chad’s **first** UNESCO intangible heritage, shared with Cameroon.",
+  "tag": "FESTIVAL DARY",
+  "p2": "All **23 provinces** brought their dances to N’Djamena for 16 days. Mayo-Kebbi Est danced the Guruna on 3 January 2026."
+ },
+ "sources": [
+  {
+   "claim": "WDSF African members (Botswana, South Africa, Lesotho, Namibia, Cameroon, DR Congo, Morocco, Senegal, Tunisia, Uganda, Zimbabwe); Chad not listed",
+   "url": "https://en.wikipedia.org/wiki/World_DanceSport_Federation"
+  },
+  {
+   "claim": "Cross-check: WDSF member directory, Chad not found; latest African admission was Nigeria (Oct 2024)",
+   "url": "https://www.worlddancesport.org/News/wdsf-celebrates-100-national-member-bodies-presidium-meeting-3499"
+  },
+  {
+   "claim": "Souar Souar festival held every December in N’Djamena",
+   "url": "https://akademie-solitude.de/en/person/taigue-ahmed"
+  },
+  {
+   "claim": "Souar Souar means ‘Come, come and dance together!’; annual festival in N’Djamena",
+   "url": "https://www.en.masa.ci/interview-yaya-sarria-chadian-dancer-the-7th-souar-souar-is-scheduled-from-december-6-to-11-2018"
+  },
+  {
+   "claim": "31 traditional dances at Place de la Nation, 11 August 2026, 66th independence anniversary",
+   "url": "https://tchadinfos.com/2026/08/11/66eme-anniversaire-de-lindependance-les-danses-traditionnelles-font-revivre-lesprit-du-11-aout/"
+  },
+  {
+   "claim": "Grigris: dancer with paralysed leg, N’Djamena, inspired by Souleymane Démé, Competition Cannes 2013, Haroun",
+   "url": "https://www.festival-cannes.com/en/2013/in-competition-mahamat-saleh-haroun-presents-a-dance-on-the-edge/"
+  },
+  {
+   "claim": "Grigris nominated for Palme d’Or, won Vulcan Award at Cannes 2013",
+   "url": "https://en.wikipedia.org/wiki/GriGris"
+  },
+  {
+   "claim": "Prix Vulcain went to cinematographer Antoine Héberlé for Grigris",
+   "url": "https://imagesfrancophones.org/actualites/cannes-kechiche-decroche-la-palme-d-or-2013-et-le-prix-de-la-critique-grigris-de-m-s-haroun-remporte-le-prix-vulcain-651"
+  },
+  {
+   "claim": "Saï: collective dance of men and women, symbol of unity (Mandoul, Taralnass)",
+   "url": "https://tchadinfos.com/?p=367307"
+  },
+  {
+   "claim": "Richat: fan dance of Sila province, exclusively royal",
+   "url": "https://tchadinfos.com/2026/01/01/festival-dary-la-province-du-sila-presente-richat-ou-la-danse-de-leventail/"
+  },
+  {
+   "claim": "Gerewol in Chad: Wodaabe men dance in lines, widen eyes, show teeth; women tap their favourite",
+   "url": "https://www.responsibletravel.com/holidays/chad/travel-guide/gerewol-festival-in-chad"
+  },
+  {
+   "claim": "Gerewol: men line lips and eyes with black paint, roll eyes, smile to show teeth; women tap the men they like",
+   "url": "https://www.afar.com/magazine/african-cultural-traditions-travelers-can-participate-in"
+  },
+  {
+   "claim": "Guruna inscribed 2025 (20.COM), Massa, Chad and Cameroon, boys and men with cattle learn wrestling, music, dance",
+   "url": "https://ich.unesco.org/en/RL/guruna-a-practice-of-pastoral-socio-cultural-and-artistic-retreats-centered-on-livestock-among-the-massa-02260"
+  },
+  {
+   "claim": "Guruna is a historic first for Chad on the UNESCO list",
+   "url": "https://tchadinfos.com/2025/12/10/tchad-le-guruna-sur-la-liste-du-patrimoine-culturel-immateriel-de-lhumanite/"
+  },
+  {
+   "claim": "Festival Dary 7th edition, 20 Dec 2025 to 4 Jan 2026, Place de la Nation, 23 provinces",
+   "url": "https://tchadinfos.com/2025/11/06/culture-la-7%E1%B5%89-edition-du-festival-dary-se-tiendra-du-20-decembre-2025-au-4-janvier-2026/"
+  },
+  {
+   "claim": "Festival Dary: 16 days of celebration",
+   "url": "https://www.alwihdainfo.com/tchad-culture-festival-dary-2025-la-culture-tchadienne-en-fete-a146659/"
+  },
+  {
+   "claim": "Mayo-Kebbi Est presented the Guruna dance at Festival Dary on 3 January 2026",
+   "url": "https://tchadinfos.com/2026/01/03/festival-dary-la-danse-guruna-du-mayo-kebbi-est-a-lhonneur/"
+  }
+ ]
+}

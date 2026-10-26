@@ -1,0 +1,106 @@
+{
+ "country": "MALAWI",
+ "country_lines": [
+  "MALAWI"
+ ],
+ "s2": {
+  "answer": "NOT REALLY.",
+  "p1": "No WDSF member federation. But on Lake Malawi’s southern shores, pairs dance **m’bwiza** at night, by a bonfire, to an ==accordion==.",
+  "p2": "One untested theory: Malawians working in European homes in the Rhodesias watched their employers dance ballroom, and took it home."
+ },
+ "s3": {
+  "number": "200+",
+  "line1": "masked",
+  "line2": "characters",
+  "p": "of Gule Wamkulu are described in a book by Father **Claude Boucher** of Mua Mission. New ones keep coming: recent masks include ==Barack Obama== and Ebola."
+ },
+ "s4": {
+  "top": "Lake of",
+  "key": "STARS",
+  "bottom": "since 2004",
+  "p1": "A festival born in **2004** on the shores of Lake Malawi. About 700 people came the first year. At night, the beach is the dance floor.",
+  "p2": "Time Out called it ==possibly the most beautiful festival location in the world==. The 2025 edition was held in **Nkhotakota**."
+ },
+ "s5": [
+  {
+   "name": "GULE WAMKULU",
+   "meta": "17TH CENTURY · CHEWA · UNESCO",
+   "p": "The **Nyau**, a secret society of men, dance in wood and straw masks as spirits and animals: after the July harvest, at weddings and funerals."
+  },
+  {
+   "name": "TCHOPA",
+   "meta": "LHOMWE · SOUTHERN MALAWI",
+   "p": "**20 to 30 dancers** criss-cross in a circle to three drums, to celebrate harvests and hunts, or as offerings to ancestors after droughts."
+  }
+ ],
+ "s6": {
+  "top": "To heal,",
+  "key": "DANCE",
+  "bottom": "in a trance",
+  "y1": "",
+  "y2": "",
+  "p": "Among the Tumbuka of the north, **Vimbuza** patients, mostly women, enter a trance to drums. In UNESCO’s words, they ==dance their disease==."
+ },
+ "s7": {
+  "year": "2005",
+  "line1": "UNESCO hails",
+  "line2": "two dances",
+  "p": "**Gule Wamkulu** and **Vimbuza** are proclaimed UNESCO Masterpieces, listed in 2008. **Tchopa** (2014) and Mwinoghe (2018) follow.",
+  "tag": "FRANCE 2024",
+  "p2": "Troupe **Rising Choreos** is invited to Festivals du Sud with 16 dances: one of only two African acts among 45."
+ },
+ "sources": [
+  {
+   "claim": "M’bwiza: partner dance on southern Lake Malawi shores, at night by bonfire, accordion; Kwilimbe’s unresearched ‘hired hand’ theory (Malawians in European households in the Rhodesias watching employers dance ballroom)",
+   "url": "https://mwnation.com/?p=144070"
+  },
+  {
+   "claim": "WDSF African member list (DanceSport Africa) does not include Malawi",
+   "url": "https://en.wikipedia.org/wiki/World_DanceSport_Federation"
+  },
+  {
+   "claim": "WDSF Southern Africa development coverage lists Botswana, Mozambique, Lesotho, South Africa, Namibia, Swaziland, not Malawi",
+   "url": "https://www.worlddancesport.org/News/WDSF/DanceSport_in_Southern_Africa-1459"
+  },
+  {
+   "claim": "Boucher’s book describes more than 200 Gule Wamkulu characters in seven themes",
+   "url": "https://kungoni.org/kasiyamaliro/the-book.html"
+  },
+  {
+   "claim": "Father Claude Boucher at Mua Mission documented 400+ gule characters, 200+ masks; recent new characters include Barack Obama and Ebola",
+   "url": "https://africageographic.com/stories/african-dance-malawi-gule-wamkulu-chewa/"
+  },
+  {
+   "claim": "Lake of Stars founded 2004 on Lake Malawi shores; ~700 attendees at first edition; Time Out 2015 accolade",
+   "url": "https://en.wikipedia.org/wiki/Lake_of_Stars_Festival"
+  },
+  {
+   "claim": "Time Out: ‘possibly the most beautiful festival location in the world’; beach overtaken by dancing at night; roots in Chibuku Shake Shake club night",
+   "url": "https://www.timeout.com/london/music-festivals/five-reasons-to-go-to-Lake-of-Stars-festival"
+  },
+  {
+   "claim": "Lake of Stars 2025 held 17–19 October at Fish Eagle Bay Lodge, Nkhotakota",
+   "url": "https://www.musicinafrica.net/node/374353"
+  },
+  {
+   "claim": "Gule Wamkulu: Chewa, Nyau secret society of men, wood and straw masks, after July harvest, weddings, funerals; said to date to 17th-century Chewa Empire; Malawi, Zambia, Mozambique; proclaimed 2005, inscribed 2008",
+   "url": "https://ich.unesco.org/en/RL/gule-wamkulu-00142"
+  },
+  {
+   "claim": "Tchopa, Lhomwe of southern Malawi: 20–30 dancers in a circle criss-crossing, three drums, after harvests/hunts and offerings after droughts; inscribed 2014",
+   "url": "https://ich.unesco.org/en/RL/00999"
+  },
+  {
+   "claim": "Vimbuza healing dance: Tumbuka of northern Malawi, patients mostly women, trance, drums, patients ‘dance their disease’; proclaimed 2005, inscribed 2008",
+   "url": "https://ich.unesco.org/en/RL/00158"
+  },
+  {
+   "claim": "Mwinoghe, joyous dance: inscribed 2018 (13.COM)",
+   "url": "https://ich.unesco.org/en/RL/01293"
+  },
+  {
+   "claim": "Rising Choreos invited to 2024 Festivals du Sud, France: 16 dances, one of two African acts among 45 participants",
+   "url": "https://mwnation.com/rising-choreos-heads-for-europe/"
+  }
+ ]
+}

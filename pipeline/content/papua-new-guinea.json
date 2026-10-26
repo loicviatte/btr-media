@@ -1,0 +1,123 @@
+{
+ "country": "PAPUA NEW GUINEA",
+ "country_lines": [
+  "PAPUA NEW",
+  "GUINEA"
+ ],
+ "s2": {
+  "answer": "NOT REALLY.",
+  "p1": "There is **no WDSF member federation** in Papua New Guinea. In Oceania, only Australia and New Zealand belong. Here, dance thrives in singsing, and hip hop.",
+  "p2": "In 2015, PNG student **Peter Karua** danced Standard at his university in the Philippines. His hope: to ==teach his people== the basics."
+ },
+ "s3": {
+  "number": "100+",
+  "line1": "tribes",
+  "line2": "one show",
+  "p": "dance at the **Goroka Show** in the Highlands, held each September near Independence Day. Started by Australian patrol officers, it reached its ==70th edition== in 2026."
+ },
+ "s4": {
+  "top": "The Asaro",
+  "key": "MUDMEN",
+  "bottom": "1957",
+  "p1": "At the 1957 Goroka Show, over **200** Asaro men appeared in clay masks, bodies painted white. They won ==first prize==.",
+  "p2": "Legend says mud-covered warriors were taken for **ghosts**. In 1969, a Mudman photo appeared in National Geographic."
+ },
+ "s5": [
+  {
+   "name": "SING-SING",
+   "meta": "GOROKA · MOUNT HAGEN · HIGHLANDS",
+   "p": "A gathering of **dance, drums and song**: feathers, face paint and kundu drums. The Mount Hagen Show began in 1961 to unite Highland tribes."
+  },
+  {
+   "name": "DUKDUK",
+   "meta": "TOLAI · EAST NEW BRITAIN",
+   "p": "Only men dance these cone-masked spirits of a **secret society**. Today they arrive **by canoe** at dawn to open the National Mask Festival in Kokopo."
+  }
+ ],
+ "s6": {
+  "top": "Dancing in",
+  "key": "FIRE",
+  "bottom": "till dawn",
+  "y1": "",
+  "y2": "",
+  "p": "Baining men dance at night in **bark-cloth masks** until daybreak, some leaping through a bonfire. Masks are made for ==one ceremony== only, then thrown away or destroyed."
+ },
+ "s7": {
+  "year": "2024",
+  "line1": "First adult",
+  "line2": "world title",
+  "p": "Crew **Wan Squad** wins Adult gold at the World Hip Hop Dance Championship in Phoenix, USA. Dancers from ==55 countries== competed.",
+  "tag": "HHI 2025",
+  "p2": "Wan Squad **defends its title** in Arizona: back-to-back gold for Papua New Guinea."
+ },
+ "sources": [
+  {
+   "claim": "WDSF members in Oceania: only Australia and New Zealand; PNG not a member",
+   "url": "https://en.wikipedia.org/wiki/World_DanceSport_Federation"
+  },
+  {
+   "claim": "Peter Karua, PNG student, danced Standard at an intra-university dancesport contest in Cebu, Philippines (2015); hopes to teach his people the basics",
+   "url": "https://www.thenational.com.pg/?p=94453"
+  },
+  {
+   "claim": "Goroka Show: over 100 tribes, sing-sing, feathers/face paint/kundu drums, 2026 is the 70th anniversary/edition, 18-20 Sept 2026",
+   "url": "https://papuanewguinea.travel/goroka-show"
+  },
+  {
+   "claim": "Goroka Show held near Independence Day (16 Sept), started by Australian kiaps, about 100 tribes",
+   "url": "https://en.wikipedia.org/wiki/Goroka_Show"
+  },
+  {
+   "claim": "Goroka Show organised first by Australian patrol officers (kiaps); more than 100 tribes",
+   "url": "https://southpacificislands.travel/5000-tourists-attend-61st-goroka-show/"
+  },
+  {
+   "claim": "Asaro Mudmen at 1957 Goroka Show: 200 wearers, body painted white, first prize; ghost legend; National Geographic photo July 1969; clay masks",
+   "url": "https://en.wikipedia.org/wiki/Asaro_Mudmen"
+  },
+  {
+   "claim": "Cross-check: over 200 masked Mud Men at the 1957 show, won first prize; ghost legend; clay masks",
+   "url": "https://geoex.com/blog/ghosts-of-papua-new-guinea"
+  },
+  {
+   "claim": "Mount Hagen Show first staged in 1961 to promote unity among Highlands tribes; sing-sing, drumming",
+   "url": "https://papuanewguinea.travel/?p=4040"
+  },
+  {
+   "claim": "Duk-Duk: Tolai secret society, men only, cone-shaped cane-and-fibre masks, spirits duk duk and tubuan",
+   "url": "https://en.wikipedia.org/wiki/Duk-Duk"
+  },
+  {
+   "claim": "Dukduks and tumbuans emerge from canoes to open the National Mask Festival, Kokopo",
+   "url": "https://www.thenational.com.pg/16th-mask-festival-begins/"
+  },
+  {
+   "claim": "Dukduks arrive by canoe at the dawn opening of the National Mask Festival, held every July in Kokopo",
+   "url": "https://www.newstalkzb.co.nz/lifestyle/travel/mike-yardley-masks-and-spirits-in-kokopo"
+  },
+  {
+   "claim": "Baining fire dance at night until daybreak, bark-cloth masks, dancers leap through bonfire",
+   "url": "https://bowers.org/collections-blog/night-s-bane-fire-dance-masks-of-the-new-britain-s-baining-culture"
+  },
+  {
+   "claim": "Baining fire dance is men-only; each mask used only once then thrown away or destroyed",
+   "url": "https://emtv.com.pg/the-baining-fire-dance-east-new-britain-png"
+  },
+  {
+   "claim": "Wan Squad won PNG's first-ever world title, Adult Division, at Hip Hop International (2024)",
+   "url": "https://emtv.com.pg/?p=240335"
+  },
+  {
+   "claim": "Wan Squad gold, Adult Crew, 2024 World Hip Hop Dance Championship, Phoenix; 55 countries, 3,500+ dancers",
+   "url": "https://thecoconet.tv/moana-arts/coco-performance/papua-new-guineas-wan-squad-wins-gold-at"
+  },
+  {
+   "claim": "Wan Squad retains World Hip Hop Dance Championship title in Arizona, 2025 (back-to-back gold)",
+   "url": "https://fijivillage.fulcrum.com.fj/PNGs-Wan-Squad-successfully-retain-World-Hip-Hop-Championship-title-in-Arizona-5f84rx"
+  },
+  {
+   "claim": "Wan Squad second consecutive gold, adult division (The National, 12 Aug 2025)",
+   "url": "https://www.thenational.com.pg/?p=554951"
+  }
+ ]
+}

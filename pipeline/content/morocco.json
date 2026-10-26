@@ -1,0 +1,126 @@
+{
+ "country": "MOROCCO",
+ "country_lines": [
+  "MOROCCO"
+ ],
+ "s2": {
+  "answer": "BARELY.",
+  "p1": "Morocco is only a **provisional** WDSF member. Its member body is the royal federation for aerobics, fitness and **hip hop**, not ballroom.",
+  "p2": "Partner dancing lives in **salsa** nights in Casablanca, Rabat, Agadir and Marrakech. In breaking, Morocco sent ==Africa’s only breakers== to Paris 2024."
+ },
+ "s3": {
+  "number": "750+",
+  "line1": "artists",
+  "line2": "in Marrakech",
+  "p": "joined the **54th National Festival of Popular Arts** in El Badi Palace in 2025: Ahidous, Ahwach, Guedra, Gnaoua, plus a guest troupe from China."
+ },
+ "s4": {
+  "top": "B-Boy",
+  "key": "LIL ZOO",
+  "bottom": "2018",
+  "p1": "Casablanca-born **Lil Zoo** wins the Red Bull BC One World Final in Zurich, beating Luigi from the US.",
+  "p2": "It was his ==first BC One win== after five previous attempts. He had already represented Morocco at the 2012 World Final in Rio."
+ },
+ "s5": [
+  {
+   "name": "AHIDOUS",
+   "meta": "MIDDLE ATLAS · ELBOW TO ELBOW",
+   "p": "Men and women dance **side by side** in tight rows, to a single bendir drum, handclaps and sung verses called izlan. Its national festival held its 25th edition in 2026."
+  },
+  {
+   "name": "AHWACH",
+   "meta": "HIGH ATLAS · ANTI-ATLAS",
+   "p": "Danced in the village square: men in white at the centre, **women in a ring** around them, to tambourine, drum and metal gong. For weddings, harvests and guests."
+  }
+ ],
+ "s6": {
+  "top": "The raïs",
+  "key": "BEATS",
+  "bottom": "a judge",
+  "y1": "",
+  "y2": "",
+  "p": "In **Taskiwin**, a High Atlas warrior dance on UNESCO’s urgent list, a saying goes: the dance’s leader, the **raïs**, is more effective than a court judge."
+ },
+ "s7": {
+  "year": "2019",
+  "line1": "Gnawa joins",
+  "line2": "UNESCO’s list",
+  "p": "Rooted in communities affected by **slavery**, since at least the 16th century, Gnawa blends music with **all-night trance** ceremonies.",
+  "tag": "DUBLIN 2026",
+  "p2": "Moroccan school **Temps’Danse** wins the country’s ==first-ever gold== at the Dance World Cup, with 36 dancers aged 7 to 24."
+ },
+ "sources": [
+  {
+   "claim": "Morocco listed as a provisional WDSF member (Africa)",
+   "url": "https://en.wikipedia.org/wiki/World_DanceSport_Federation"
+  },
+  {
+   "claim": "WDSF refers to Selma Bennani as President of its Moroccan National Member Body",
+   "url": "https://www.worlddancesport.org/News/WDSF/wdsf-mourns-september-8-earthquake-victims-in-morocco-3355"
+  },
+  {
+   "claim": "Selma Bennani presides the FRMSAFH (aerobics, fitness, hip hop and related disciplines)",
+   "url": "https://www.infomediaire.net/?p=53039"
+  },
+  {
+   "claim": "FRMSAFH hosted the 2023 WDSF African Breaking Championship in Rabat; B-Girl El Mamouny and B-Boy Billy won Olympic spots",
+   "url": "https://worlddancesport.org/News/2023-WDSF-African-Breaking-Championship-3325"
+  },
+  {
+   "claim": "Mallakh and El-Mamouny: Morocco's first Olympic breaking appearance and Africa's only representation at Paris 2024",
+   "url": "https://en.yabiladi.com/articles/details/152809/africa-s-sole-representatives-moroccan-break-dancers"
+  },
+  {
+   "claim": "Salsa scene in Rabat, Casablanca, Tangier and Marrakech",
+   "url": "https://telquel.ma/2012/10/03/Le-Danse-Un-dos-tres_538_4415"
+  },
+  {
+   "claim": "Current salsa/bachata events in Casablanca, Rabat, Agadir, Marrakech",
+   "url": "https://www.salsavida.com/fr/guides/morocco/"
+  },
+  {
+   "claim": "54th FNAP: over 750 artists from Morocco and abroad incl. a troupe from China, El Badi Palace Marrakech; Ahidous, Ahouach, Guedra, Gnaoua",
+   "url": "https://www.moroccoworldnews.com/2025/07/225571/fnap-2025-opens-doors-to-celebration-of-moroccos-musical-soul/"
+  },
+  {
+   "claim": "Lil Zoo (Casablanca) wins Red Bull BC One in Zurich 2018; first win after five previous entries; 2012 World Final in Rio",
+   "url": "https://en.yabiladi.com/articles/details/69383/break-dance-morocco-s-wins-bull.html"
+  },
+  {
+   "claim": "Lil Zoo beat Luigi (US) at the Hallenstadion, Zurich",
+   "url": "https://www.euronews.com/2018/09/30/woman-wins-global-breakdancing-competition-for-the-first-time"
+  },
+  {
+   "claim": "Lil Zoo is Moroccan, from Casablanca, won in Zurich",
+   "url": "https://www.bladi.net/marocain-breakdancer-champion-monde,53038.html"
+  },
+  {
+   "claim": "Ahidous: Middle Atlas, elbow to elbow in rows, single bendir, handclaps, izlan; Ahwach: men in centre, women in a ring, taguenza, dendoum, naqouss",
+   "url": "https://sudestmaroc.com/en/ahwach-and-ahidous-two-amazigh-dances-of-moroccan-atlas/"
+  },
+  {
+   "claim": "25th National Ahidous Festival, Ain Leuh, 23-25 July 2026",
+   "url": "https://en.le360.ma/culture/national-ahidous-festival-returns-for-its-25th-edition-in-ifrane_3OIJEO6JQJCS7GXIDGKELX32BM/"
+  },
+  {
+   "claim": "Ahwach: High Atlas and Anti-Atlas, village square (asarag), white costumes, weddings, harvest, welcoming visitors",
+   "url": "https://highatlasfoundation.org/insights/the-ahwach-dance-in-aoulouz-taroudant"
+  },
+  {
+   "claim": "Taskiwin: warrior dance of the western High Atlas; Tamazight saying that the raïs is more effective than a court judge",
+   "url": "https://telquel.ma/2017/12/10/savoir-danse-taskiwin-patrimoine-culturel-immateriel-lunesco_1572172"
+  },
+  {
+   "claim": "Taskiwin on UNESCO List of ICH in Need of Urgent Safeguarding (2017)",
+   "url": "https://ich.unesco.org/en/USL/taskiwin-martial-dance-of-the-western-high-atlas-01256?USL=01256"
+  },
+  {
+   "claim": "Gnawa inscribed on UNESCO Representative List 2019; origins among people affected by slavery, at least 16th century; all-night trance ceremonies",
+   "url": "https://ich.unesco.org/en/RL/gnawa-01170?RL=01170"
+  },
+  {
+   "claim": "Temps'Danse wins Morocco's first-ever gold at Dance World Cup 2026 in Dublin; delegation of 36 dancers aged 7 to 24",
+   "url": "https://fr.hespress.com/482314-482314.html"
+  }
+ ]
+}

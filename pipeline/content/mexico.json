@@ -1,0 +1,122 @@
+{
+ "country": "MEXICO",
+ "country_lines": [
+  "MEXICO"
+ ],
+ "s2": {
+  "answer": "SORT OF.",
+  "p1": "Mexico has a **WDSF member federation**, and its couples dance on the WDSF circuit, from Cali 2016 to Cali 2026, in Standard and Latin.",
+  "p2": "Its people’s ballroom is the **salón de baile**. Mexico City’s Salón Los Ángeles has hosted danzón, mambo and salsa with live bands since ==1937==."
+ },
+ "s3": {
+  "number": "882",
+  "line1": "dancers",
+  "line2": "at once",
+  "p": "performed the **Jarabe Tapatío** in Guadalajara in 2019, to live mariachi. A Guinness World Record, nearly double the 457 of 2011."
+ },
+ "s4": {
+  "top": "The",
+  "key": "BALLET",
+  "bottom": "Folklórico",
+  "p1": "Choreographer **Amalia Hernández** started out with just eight dancers. In **1959**, a presidential decree created the Ballet Folklórico.",
+  "p2": "It has toured ==300+ cities in 60 countries==, and still dances at Mexico City’s **Palacio de Bellas Artes**."
+ },
+ "s5": [
+  {
+   "name": "VOLADORES",
+   "meta": "UNESCO 2009 · TOTONAC · VERACRUZ",
+   "p": "Four men leap from a pole **18 to 40 metres** high, tied by ropes, and spin to the ground. A fifth plays flute and drum on the top."
+  },
+  {
+   "name": "PARACHICOS",
+   "meta": "UNESCO 2010 · CHIAPA DE CORZO",
+   "p": "Dancers in **carved wooden masks**, serapes and ribbons shake maracas through the streets, from 4 to 23 January, as an offering to three saints."
+  }
+ ],
+ "s6": {
+  "top": "Cuba’s",
+  "key": "DANZÓN",
+  "bottom": "thrives here",
+  "y1": "",
+  "y2": "",
+  "p": "Danzón was born in 19th-century Cuba, where it is now kept alive by older fans. Mexico kept dancing: in Veracruz, couples met on the main square **four times a week**."
+ },
+ "s7": {
+  "year": "2025",
+  "line1": "Danzón is",
+  "line2": "now heritage",
+  "p": "Mexico City declares danzón **Intangible Cultural Heritage**. Every week it fills La Ciudadela and the Monumento a la Revolución.",
+  "tag": "XILITLA 2026",
+  "p2": "**600** people dance huapango at once in this Pueblo Mágico: a new Guinness World Record."
+ },
+ "sources": [
+  {
+   "claim": "Mexico has a WDSF National Member Body (Mexican Federation, femexbaile.com)",
+   "url": "https://www.worlddancesport.org/News/WDSF/Developments_in_Salsa-1526"
+  },
+  {
+   "claim": "Mexico listed as WDSF member (Federation Mexicana De Baile A.C.) - cross-check",
+   "url": "https://en.wikipedia.org/wiki/World_DanceSport_Federation"
+  },
+  {
+   "claim": "XVII Campeonato Nacional de Baile Deportivo, endorsed by the Mexican federation",
+   "url": "https://www.gaceta.unam.mx/pareja-de-baile-puma-apunta-a-pistas-europeas/"
+  },
+  {
+   "claim": "Mexican couples on WDSF ranking lists (e.g. Cali 2016 Continental Championship)",
+   "url": "https://worlddancesport.org/Couples/Alejandro-Herrera-Torres-and-Janet-Guadalupe-Araujo-Ortiz-585468"
+  },
+  {
+   "claim": "Salón Los Ángeles founded 1937, Colonia Guerrero; danzón, chachachá, mambo, salsa; live bands",
+   "url": "https://www.nationalgeographic.com/travel/article/step-inside-one-of-the-last-of-mexico-citys-iconic-dance-halls"
+  },
+  {
+   "claim": "Salón Los Ángeles 1937, 89th anniversary in 2026",
+   "url": "https://www.excelsior.com.mx/ciudad-de-mexico/salon-angeles-aniversario"
+  },
+  {
+   "claim": "882 dancers, Jarabe Tapatío, Guadalajara 2019, Guinness record; previous record 457 in 2011",
+   "url": "https://remezcla.com/culture/jalisco-broke-record-largest-mexican-folk-dance-using-883-dancers/"
+  },
+  {
+   "claim": "882 dancers, 24 Aug 2019, mariachi, previous record 457 (AFP)",
+   "url": "https://www.malaymail.com/news/life/2019/08/25/nearly-900-mexican-performers-set-world-record-for-folk-dance/1784012"
+  },
+  {
+   "claim": "Amalia Hernández: Ballet de México began with 8 dancers; presidential decree 11 Oct 1959; 300+ cities in 60 countries",
+   "url": "https://inba.gob.mx/multimedia/prensa/galerias/12988/12988-bol._1419_amalia_hernandez_difundio_por_el_mundo_la_danza_tradicional_mexicana_con_su_ballet_folklorico.pdf"
+  },
+  {
+   "claim": "Ballet Folklórico residency at Palacio de Bellas Artes, Sunday performances",
+   "url": "https://mexiconewsdaily.com/culture/ballet-folklorico-us-tour-75th-anniversary/"
+  },
+  {
+   "claim": "Voladores: UNESCO 2009, Totonac of Veracruz, four dancers, pole 18-40 m, Caporal with flute and drum",
+   "url": "https://ich.unesco.org/en/Decisions/4.COM/13.62"
+  },
+  {
+   "claim": "Parachicos: UNESCO 2010, Chiapa de Corzo, 4-23 January, three saints, wooden masks, serape, ribbons, chinchines (maracas)",
+   "url": "https://ich.unesco.org/en/Decisions/5.COM/6.28"
+  },
+  {
+   "claim": "Danzón born in 19th-century Cuba, declined there after 1959 revolution, kept alive by Mexico; Veracruz couples dance on central square four times a week",
+   "url": "https://citizen.co.za/entertainment/mexico-cuba-music-dance/amp"
+  },
+  {
+   "claim": "Danzón reached Mexico in the late 19th century via Havana, Progreso and Veracruz; CDMX decree 13 Nov 2025",
+   "url": "https://extbox.ibero.mx/portaldocentes/url/DANZON_PATRIMONIO_CULTURAL.pdf"
+  },
+  {
+   "claim": "Mexico City declares danzón Intangible Cultural Heritage (Nov 2025); danced weekly at La Ciudadela, Kiosco Morisco, Monumento a la Revolución",
+   "url": "https://www.cronica.com.mx/metropoli/2025/11/16/declaran-al-danzon-como-patrimonio-cultural-inmaterial-de-la-cdmx/"
+  },
+  {
+   "claim": "Xilitla (Pueblo Mágico, San Luis Potosí): 500+ people dance huapango simultaneously, Guinness record, June 2026",
+   "url": "https://www.cronica.com.mx/nacional/2026/06/22/xilitla-rompe-record-guinness-llevando-el-huapango-de-san-luis-potosi-a-los-ojos-del-mundo/"
+  },
+  {
+   "claim": "Xilitla huapango Guinness record, 500+ dancers, previous record Brownsville TX",
+   "url": "https://www.adn40.mx/tiempo-libre/2026-06-28/el-pueblo-magico-de-san-luis-potosi-que-acaba-de-entrar-al-libro-guinness-de-los-records-por-un-curioso-motivo/"
+  }
+ ]
+}

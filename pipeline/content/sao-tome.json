@@ -1,0 +1,115 @@
+{
+ "country": "SÃO TOMÉ",
+ "country_lines": [
+  "SÃO TOMÉ &",
+  "PRÍNCIPE"
+ ],
+ "s2": {
+  "answer": "SORT OF.",
+  "p1": "No WDSF member federation. But the island rhythms **ússua** and **socopé** were shaped by ==Portuguese ballroom== dancing.",
+  "p2": "Every dry-season weekend, villages gather at **fundões**: open-air spaces cordoned off for dancing to local bands."
+ },
+ "s3": {
+  "number": "≈30",
+  "line1": "actors",
+  "line2": "per troupe",
+  "p": "perform each Tchiloli, in troupes known locally as **“tragedies”**. Roles often pass **from father to son**, and men play the female parts."
+ },
+ "s4": {
+  "top": "The",
+  "key": "CALEMA",
+  "bottom": "brothers",
+  "p1": "Fradique and António Mendes Ferreira grew up in **Ribeira Peixe**, in the south of São Tomé. Their sound: **kizomba-pop** and Afropop.",
+  "p2": "In June 2025 they drew about ==60,000 fans== to Benfica’s **Estádio da Luz** in Lisbon, in a near sell-out."
+ },
+ "s5": [
+  {
+   "name": "PUÍTA",
+   "meta": "FROM ANGOLA · PLANTATION ERA",
+   "p": "Brought by **Angolan workers**, it became one of the most popular dances on the colonial plantations. After independence, a **national genre**."
+  },
+  {
+   "name": "SOCOPÉ",
+   "meta": "SÃO TOMÉ · LIVE BANDS 1950S–90S",
+   "p": "Its name is said to mean **“only with feet”**. Bands played it on outdoor terraces and dance floors, where people came **in crowds** to dance."
+  }
+ ],
+ "s6": {
+  "top": "Banned for",
+  "key": "FAST",
+  "bottom": "rhythms",
+  "y1": "",
+  "y2": "",
+  "p": "Colonial authorities **banned the Danço-Congo**, claiming its fast rhythm exhausted dancers and cut their work output. It is often staged on **Independence Day**."
+ },
+ "s7": {
+  "year": "2025",
+  "line1": "Tchiloli on",
+  "line2": "UNESCO list",
+  "p": "The country’s **first** UNESCO intangible heritage: open-air theatre, music and dance in which the emperor’s son is **tried and convicted**.",
+  "tag": "SEPT 2026",
+  "p2": "Africanews reports Tchiloli still **thrives**. One actor plans to teach his oldest child the role of **Kata**, the boy who brings a letter."
+ },
+ "sources": [
+  {
+   "claim": "Ússua and socopé dances shaped by Portuguese ballroom dancing",
+   "url": "https://www.worldatlas.com/articles/the-culture-of-sao-tome-and-principe.html"
+  },
+  {
+   "claim": "Portuguese ballroom dancing integral to ússua, socopé, dêxa (cross-check)",
+   "url": "https://en.wikipedia.org/wiki/Music_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+  },
+  {
+   "claim": "WDSF African members list does not include São Tomé and Príncipe",
+   "url": "https://en.wikipedia.org/wiki/World_DanceSport_Federation"
+  },
+  {
+   "claim": "Dry-season weekend fundões: open-air spaces cordoned off for dancing",
+   "url": "https://blogs.voanews.com/music-time-in-africa/?p=43"
+  },
+  {
+   "claim": "Tchiloli: about thirty actors; UNESCO Representative List",
+   "url": "https://ich.unesco.org/en/RL/tchiloli-living-theatre-of-sao-tome-and-principe-in-the-quest-of-justice-02309"
+  },
+  {
+   "claim": "Tchiloli groups called 'tragedies', ~30 members; roles father to son; men play female roles",
+   "url": "https://www.buala.org/en/stages/solemn-gestures-on-the-sandy-ground-tchiloli-in-sao-tome-and-principe"
+  },
+  {
+   "claim": "Calema: brothers Fradique and António Mendes Ferreira, born and raised in Ribeira-Peixe; ~60,000 at Estádio da Luz, 9 June 2025",
+   "url": "https://saotomeprincipe.de/en/2025/06/10/calema-mega-concert-in-front-of-60000-guests-in-lisbon/"
+  },
+  {
+   "claim": "Calema genres incl. Kizomba-pop and Afropop",
+   "url": "https://en.wikipedia.org/wiki/Calema"
+  },
+  {
+   "claim": "Puíta brought by Angolan workers, popular on colonial plantations, national genre after independence",
+   "url": "https://www.rtp.pt/noticias/cultura/o-livro-que-conta-a-historia-da-musica-de-sao-tome-e-principe_v1495900"
+  },
+  {
+   "claim": "Socopé said to mean 'only with feet'; played by bands 1950s–1990s; fundões terraces where people 'went in herds'",
+   "url": "https://daily.bandcamp.com/features/bongo-joe-sao-tome-and-principe-reissues-feature"
+  },
+  {
+   "claim": "Danço-Congo banned by colonial authorities over fast rhythm and work output; often staged on independence day",
+   "url": "https://globalvoices.org/2011/07/12/sao-tome-and-principe-traditions-culture-identity/"
+  },
+  {
+   "claim": "Danço-Congo prohibited by the Portuguese during colonization (cross-check)",
+   "url": "https://www.saotomeblog.com/2010/02/25/danco-congo-sao-tome-theatre/"
+  },
+  {
+   "claim": "Tchiloli inscribed 2025 (20.COM, New Delhi); commended as the State Party's first inscription; emperor's son convicted",
+   "url": "https://ich.unesco.org/en/decisions/20.COM/7.B.39"
+  },
+  {
+   "claim": "Tchiloli is São Tomé and Príncipe's first UNESCO inscription (press)",
+   "url": "https://www.plataformamedia.com/en/2025/12/10/sao-tome-tchiloli-theatre-joins-unesco-intangible-cultural-heritage-list/"
+  },
+  {
+   "claim": "Sept 2026: Tchiloli continues to thrive; actor plans to teach oldest child the role of Kata, who delivers a letter",
+   "url": "https://africanews.com/2026/09/03/sao-tome-open-air-tchiloli-theatre-continues-to-thrive"
+  }
+ ]
+}

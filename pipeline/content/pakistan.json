@@ -1,0 +1,122 @@
+{
+ "country": "PAKISTAN",
+ "country_lines": [
+  "PAKISTAN"
+ ],
+ "s2": {
+  "answer": "BARELY.",
+  "p1": "Pakistan has **no member federation** in the World DanceSport Federation, so there is no WDSF route into Latin & Ballroom.",
+  "p2": "In 2017, Islamabad’s Studio-8 offered **salsa** classes. ==Mehndis==, Bollywood-style wedding dance parties, are among the few places people dance openly."
+ },
+ "s3": {
+  "number": "3",
+  "line1": "swords",
+  "line2": "at once",
+  "p": "in **Braghoni**, the fastest part of the **Khattak** dance, Pakistan’s national folk dance. Two swing in the air, the third is held in the mouth."
+ },
+ "s4": {
+  "top": "Mera Dil Ye",
+  "key": "PUKARE",
+  "bottom": "Aaja, 2022",
+  "p1": "Ayesha dances solo at a friend’s **wedding** to a Lata Mangeshkar classic. The bride had asked for the song at the last minute.",
+  "p2": "Her clip passed ==15.7 million views==. Copies spread across Pakistan and India, including one by **Katrina Kaif**."
+ },
+ "s5": [
+  {
+   "name": "DHAMAAL",
+   "meta": "CENTURIES OLD · SEHWAN, SINDH",
+   "p": "An ecstatic **Sufi** dance to the drum, performed by dervishes and devotees at the shrine of Lal Shahbaz Qalandar, especially during his urs."
+  },
+  {
+   "name": "LUDDI",
+   "meta": "PUNJAB · WEDDINGS",
+   "p": "Dancers move in a **circle**, clapping hands and clicking fingers to dhol and shehnai. Danced at weddings, and to celebrate a victory."
+  }
+ ],
+ "s6": {
+  "top": "No ankle",
+  "key": "BELLS",
+  "bottom": "allowed",
+  "y1": "1981",
+  "y2": "",
+  "p": "In **1981**, an Islamisation drive under military ruler Zia-ul-Haq banned dance, targeting **ankle bells**, key to classical forms. In 2016 it was still on the books, if eased."
+ },
+ "s7": {
+  "year": "2017",
+  "line1": "Sehwan keeps",
+  "line2": "dancing",
+  "p": "On 16 February, a suicide bomb killed at least 90 at the **Sehwan** shrine. By sunset the next day, hundreds of devotees were back to keep the ==dhamaal== going.",
+  "tag": "APR 2026",
+  "p2": "Classical dancer **Sheema Kermani** performs at the Arts Council of Pakistan in Karachi for International Dance Day."
+ },
+ "sources": [
+  {
+   "claim": "Pakistan not among WDSF Asian member federations (DanceSport Asia list)",
+   "url": "https://en.wikipedia.org/wiki/World_DanceSport_Federation"
+  },
+  {
+   "claim": "WDSF membership page (94 national member bodies; Pakistan not mentioned)",
+   "url": "https://www.worlddancesport.org/WDSF/Membership"
+  },
+  {
+   "claim": "Studio-8 in Islamabad teaches salsa, Bollywood, Zumba (2017)",
+   "url": "https://images.dawn.com/news/1177161/dance-classes-are-taking-over-islamabad-heres-why"
+  },
+  {
+   "claim": "Mehndis as choreographed, Bollywood-inspired dance showcases, among the few places people dance openly",
+   "url": "https://images.dawn.com/news/1191691"
+  },
+  {
+   "claim": "Khattak: national folk dance, 14th century, Braghoni with three swords, one held in mouth",
+   "url": "https://www.app.com.pk/?p=1112684"
+  },
+  {
+   "claim": "Khattak: national dance of Pakistan; Braghoni three swords, two swung, third in mouth (cross-check)",
+   "url": "https://en.wikipedia.org/wiki/Khattak_dance"
+  },
+  {
+   "claim": "Ayesha danced solo at a friend's wedding; bride requested the song at the last minute",
+   "url": "https://arynews.tv/mera-dil-ye-pukare-aaja-story-behind-girls-viral-video"
+  },
+  {
+   "claim": "Song sung by Lata Mangeshkar; Instagram reel, November 2022",
+   "url": "https://www.india.com/viral/viral-video-pakistani-girl-dances-to-mera-dil-ye-pukare-at-wedding-wins-internet-with-her-grace-5746008/"
+  },
+  {
+   "claim": "15.7 million views; recreations in India and Pakistan incl. Katrina Kaif",
+   "url": "https://propakistani.pk/lens/?p=389139"
+  },
+  {
+   "claim": "Katrina Kaif recreated the dance (cross-check)",
+   "url": "https://propakistani.pk/lens/?p=388617"
+  },
+  {
+   "claim": "Dhamaal: mystical dance at Lal Shahbaz Qalandar urs in Sehwan, Sindh, by Sufi mendicants, dervishes, worshippers",
+   "url": "https://www.geo.tv/latest/591233-three-day-festivities-begin-as-devotees-mark-773rd-urs-of-lal-shahbaz-qalandar"
+  },
+  {
+   "claim": "Dhamaal: centuries-old tradition of dancing to a drum; devotees returned by sunset 17 Feb 2017 after 16 Feb bombing",
+   "url": "https://www.newsweekpakistan.com/?p=857175"
+  },
+  {
+   "claim": "Luddi: men and women in circles, clicking fingers and clapping, dhol and shehnai, weddings and victories",
+   "url": "https://en.wikipedia.org/wiki/Folk_dances_of_Punjab"
+  },
+  {
+   "claim": "Luddi: Punjabi dance in Pakistan, circle, clapping, at weddings (cross-check)",
+   "url": "https://folklore.usc.edu/luddi/"
+  },
+  {
+   "claim": "1981 dance ban under Zia-ul-Haq targeting ankle bells; directive exists to this day (2016)",
+   "url": "https://images.dawn.com/news/1175333/art-not-sex-pakistans-dancers-take-a-stand"
+  },
+  {
+   "claim": "1981 ban, ankle bells, directive still exists (AFP cross-check)",
+   "url": "https://english.ahram.org.eg/News/216670.aspx"
+  },
+  {
+   "claim": "Sheema Kirmani performs classical dance at International Dance Day, Arts Council of Pakistan, Karachi, 26 April 2026",
+   "url": "https://www.app.com.pk/?p=1200293"
+  }
+ ]
+}

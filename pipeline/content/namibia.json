@@ -1,0 +1,122 @@
+{
+ "country": "NAMIBIA",
+ "country_lines": [
+  "NAMIBIA"
+ ],
+ "s2": {
+  "answer": "SORT OF.",
+  "p1": "The **Namibia Amateur DanceSport Association** was founded in 2007. In 2008 it joined the world body, IDSF, as member ==number 87==.",
+  "p2": "In 2013 the WDSF moved to end it over unpaid fees. Today Namibia is a provisional member, and Windhoek’s **Dance Domain** teaches ballroom."
+ },
+ "s3": {
+  "number": "117",
+  "line1": "medals",
+  "line2": "in Cape Town",
+  "p": "won by **Dance Domain Windhoek** at the 2016 Dance Domain Open, a ballroom, Latin and Pro/Am event: 42 gold, 37 silver and 38 bronze."
+ },
+ "s4": {
+  "top": "Rumba in the",
+  "key": "JUNGLE",
+  "bottom": "2018",
+  "p1": "Namibia picks its **first national dancesport team**: 14 dancers bound for Sun City, South Africa, to compete in ballroom and Latin.",
+  "p2": "More than ==21 countries== were expected. Before leaving, the team received Namibia’s **national sport colours** for the first time."
+ },
+ "s5": [
+  {
+   "name": "ONDJONGO",
+   "meta": "OVAHIMBA & OVAZEMBA",
+   "p": "Men and women stand in a **semicircle**: clapping, stomping, quick footwork. A celebration dance, performed at any social celebration."
+  },
+  {
+   "name": "NAMA STAP",
+   "meta": "THE NAMA PEOPLE",
+   "p": "“The dancing steps of the Nama.” Women sway softly; men **stamp hard** to show they protect them. Some moves mimic an ostrich guarding its chicks."
+  }
+ ],
+ "s6": {
+  "top": "The wild",
+  "key": "MELON",
+  "bottom": "dance game",
+  "y1": "",
+  "y2": "",
+  "p": "Ju/’hoansi women dance in a semicircle, passing a ball made from a **wild melon** tuber. A man tries to catch it. When he does, the game stops."
+ },
+ "s7": {
+  "year": "2017",
+  "line1": "Dance named",
+  "line2": "a sport code",
+  "p": "Newly formed **Dance Sport Namibia** joins the Olympic committee: dance is now a sport code. Its founder said Namibia was “15 years behind” in seeing dance as sport.",
+  "tag": "RED BULL 2026",
+  "p2": "Windhoek’s **Xallamo Gariseb** wins the first Red Bull Dance Your Style Namibia, earning a place at the World Final in Zürich."
+ },
+ "sources": [
+  {
+   "claim": "NADSA founded July 2007; IDSF membership as country number 87 (May 2008)",
+   "url": "https://www.namibian.com.na/namibias-dance-sport-affiliates-to-world-body/"
+  },
+  {
+   "claim": "IDSF granted Namibia affiliate number 87; SADSF HQ in Windhoek (2008)",
+   "url": "https://neweralive.na/?p=106671"
+  },
+  {
+   "claim": "NADSA founded July 2007; Dance Zone studio for ballroom and Latin in Windhoek (2009)",
+   "url": "https://www.namibian.com.na/taking-dance-to-an-international-level/"
+  },
+  {
+   "claim": "WDSF General Secretary 2013 report recommends terminating Namibia's membership over unpaid fees",
+   "url": "https://cdnb.worlddancesport.org/legacy-docs/wdsf/agm/2013/9.%20WDSF%20General%20Secretary%20Report%20AGM%202013.pdf"
+  },
+  {
+   "claim": "Dance Domain Windhoek: 117 medals (42 gold, 37 silver, 38 bronze) at the Dance Domain Open, Cape Town, July 2016; Ballroom, Latin and Speciality Pro/Am",
+   "url": "https://republikein.com.na/nuus/dancing-couples-show-their-class"
+  },
+  {
+   "claim": "First national dancesport team, Rumba in the Jungle, Sun City 2018; ballroom and Latin; 21+ countries expected; first national sport colours",
+   "url": "https://www.namibian.com.na/dance-sport-namibia-selects-national-team"
+  },
+  {
+   "claim": "14 athletes selected for Rumba in the Jungle, October 2018; first national colours at NSC Windhoek",
+   "url": "https://neweralive.na/?p=117125"
+  },
+  {
+   "claim": "Ondjongo: Himba men and women, semicircle, clapping, stomping, quick footwork, celebratory",
+   "url": "https://ourhabitas.com/the-rhythm-of-heritage"
+  },
+  {
+   "claim": "Ondjongo danced by Ovazemba and Ovahimba, men and women, at any social celebration (Tsoubaloko, UNAM)",
+   "url": "https://repository.unam.edu.na/server/api/core/bitstreams/aabf1bde-a81f-4e6b-95df-91df885c5200/content"
+  },
+  {
+   "claim": "Nama music inscribed by UNESCO in 2020 (Urgent Safeguarding); accompanied by Nama-stap dances, 'dancing steps of the Nama people'",
+   "url": "https://ich.unesco.org/en/decisions/15.COM/8.A.4"
+  },
+  {
+   "claim": "Namastap: women soft and swaying, men stamping to show protection of women, ostrich guarding chicks; Tama-!xun wild melon dance game of the Ju|'hoansi",
+   "url": "https://ich.unesco.org/doc/src/45624-EN.pdf"
+  },
+  {
+   "claim": "Nama stap still danced in Namibia, Botswana, South Africa; UNESCO inscription Dec 2020",
+   "url": "https://namibian.org/blog/nama-unesco"
+  },
+  {
+   "claim": "2017: Dance Sport Namibia newly established, new NNOC member; dance recognised as a sport code for the first time",
+   "url": "https://www.republikein.com.na/nuus/dance-team-needs-funds-for-commonwealth-challenge"
+  },
+  {
+   "claim": "Founder Venancius Rukero: Namibia '15 years behind other countries' in recognising dance as a sport (2018)",
+   "url": "https://namibian.com.na/?p=545209"
+  },
+  {
+   "claim": "Xallamo Gariseb wins inaugural Red Bull Dance Your Style Namibia (22 Aug 2026), to represent Namibia at World Final in Zurich",
+   "url": "https://www.namibian.com.na/namibian-street-dancers-step-into-global-spotlight"
+  },
+  {
+   "claim": "Xallamo first Red Bull Dance Your Style Namibia champion; international final in Switzerland",
+   "url": "https://www.we.com.na/mw-main/xallamo-takes-red-bull-dance-your-style-crown-NMH016832-3015-20655"
+  },
+  {
+   "claim": "Red Bull Dance Your Style World Final, Hallenstadion Zurich, 24 October 2026",
+   "url": "https://www.zuerich.com/en/events-nightlife/event-highlights/red-bull-dance-your-style"
+  }
+ ]
+}

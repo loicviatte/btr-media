@@ -1,0 +1,149 @@
+{
+ "pakistan": {
+  "no": 1,
+  "name": "Pakistan",
+  "guest": "Kiera Brunton",
+  "blob": "d5f1dfaffc75cb3be9b7fac141ed5324",
+  "wh": [
+   900,
+   858
+  ],
+  "display": "Pakistan",
+  "tag": "Pakistan",
+  "music": "“Kana Yaari”, Kaifi Khalil, Eva B & Abdul Wahab Bugti"
+ },
+ "papua-new-guinea": {
+  "no": 2,
+  "name": "PapuaNewGuinea",
+  "guest": "Michael Shelton",
+  "blob": "fc7dba5c29d84d4859fc011ca34cef3c",
+  "wh": [
+   900,
+   618
+  ],
+  "short": "PNG",
+  "display": "Papua New Guinea",
+  "tag": "PapuaNewGuinea",
+  "music": "George Telek, a track from “Serious Tam”"
+ },
+ "mexico": {
+  "no": 3,
+  "name": "Mexico",
+  "guest": "Jaime Dieguez",
+  "blob": "5c130c9b4ff28aea719b9165594926a9",
+  "wh": [
+   900,
+   566
+  ],
+  "display": "Mexico",
+  "tag": "Mexico",
+  "music": "“Danzón No. 2”, Arturo Márquez"
+ },
+ "namibia": {
+  "no": 4,
+  "name": "Namibia",
+  "guest": "Nicole Cutler",
+  "blob": "86cc25b3b5593a28525640603e9e5213",
+  "wh": [
+   900,
+   866
+  ],
+  "display": "Namibia",
+  "tag": "Namibia",
+  "music": "“Kwiku”, Tate Buti, Janice & Faizel MC"
+ },
+ "chad": {
+  "no": 5,
+  "name": "Chad",
+  "guest": "James Wilson",
+  "blob": "2bc17c3ff73c284c9569e3c5a4566416",
+  "wh": [
+   570,
+   900
+  ],
+  "display": "Chad",
+  "tag": "Chad",
+  "music": "“Oda Ye”, Afrotronix"
+ },
+ "laos": {
+  "no": 6,
+  "name": "Laos",
+  "guest": "Anthony Rutherford",
+  "blob": "acd5d329567a3a13aa526eac4762d2a3",
+  "wh": [
+   750,
+   900
+  ],
+  "display": "Laos",
+  "tag": "Laos",
+  "music": "“Lam Salavan”, Latsamy Phoudindong"
+ },
+ "rwanda": {
+  "no": 7,
+  "name": "Rwanda",
+  "guest": "Phemelo Mabuse",
+  "blob": "b50182a3a205e9bc3833de3fceefadfb",
+  "wh": [
+   900,
+   784
+  ],
+  "display": "Rwanda",
+  "tag": "Rwanda",
+  "music": "“Slowly”, Meddy"
+ },
+ "malawi": {
+  "no": 8,
+  "name": "Malawi",
+  "guest": "Ian Waite",
+  "blob": "638a37ca5c7c7002af922550c1a9b6b6",
+  "wh": [
+   366,
+   900
+  ],
+  "display": "Malawi",
+  "tag": "Malawi",
+  "music": "Madalitso Band, a track from “Musakayike”"
+ },
+ "japan": {
+  "no": 9,
+  "name": "Japan",
+  "guest": "Oskar Odiakosa",
+  "blob": "af505e81cabc69509336bdc2fc6097b7",
+  "wh": [
+   760,
+   900
+  ],
+  "display": "Japan",
+  "tag": "Japan",
+  "music": "“Plastic Love”, Mariya Takeuchi",
+  "manual": true
+ },
+ "morocco": {
+  "no": 10,
+  "name": "Morocco",
+  "guest": "Peter Nash",
+  "blob": "0597a58e2381b173ca0392a2c2edcd12",
+  "wh": [
+   900,
+   658
+  ],
+  "fade": true,
+  "display": "Morocco",
+  "tag": "Morocco",
+  "music": "“Beautiful Tango”, Hindi Zahra"
+ },
+ "sao-tome": {
+  "no": 11,
+  "name": "SaoTome",
+  "guest": "Peter Maxwell",
+  "blob": "25d82903e62133e7863536a5205a02ce",
+  "wh": [
+   704,
+   900
+  ],
+  "short": "SÃO TOMÉ",
+  "display": "São Tomé and Príncipe",
+  "tag": "SaoTomeAndPrincipe",
+  "music": "“A Nossa Vez”, Calema"
+ }
+}
