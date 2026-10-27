@@ -8,7 +8,11 @@ import { geoPath, geoMercator, geoConicEqualArea } from 'd3-geo';
 const [name, W = '900', H = '900', res = '50m', out] = process.argv.slice(2);
 const topo = JSON.parse(readFileSync(new URL(`./node_modules/world-atlas/countries-${res}.json`, import.meta.url)));
 const all = feature(topo, topo.objects.countries).features;
-const f = all.find(c => c.properties.name.toLowerCase() === name.toLowerCase())
+// Scotland, England, Wales, Northern Ireland are one "United Kingdom" in world-atlas: their own outlines come from
+// Natural Earth map units (subunits-50m.json, public domain), whatever resolution is asked.
+const SUB = JSON.parse(readFileSync(new URL('./subunits-50m.json', import.meta.url))).features;
+const f = SUB.find(c => c.properties.name.toLowerCase() === name.toLowerCase())
+  || all.find(c => c.properties.name.toLowerCase() === name.toLowerCase())
   || all.find(c => c.properties.name.toLowerCase().includes(name.toLowerCase()));
 if (!f) { console.error('Not found. Names:', all.map(c => c.properties.name).sort().join(', ')); process.exit(1); }
 

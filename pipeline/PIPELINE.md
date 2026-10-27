@@ -37,7 +37,7 @@ Break The Routine (BTR) is a DanceSport podcast (Marius Iepure, Dance United). I
 - Launch an agent with `pipeline/BRIEF-extras.md` for 3 bonus caption facts → `pipeline/content/extras-<slug>.json`, and have them checked too.
 
 ### 4. Map + config
-- `node atlas_map.mjs "<English name as in world-atlas>" 900 900 50m map.svg` (use `10m` for small countries) writes the gold silhouette SVG; `wh` = its width/height. Look at the result: island nations spread far apart may need the main island only; countries with a disputed border should get a neutral regional framing (see Morocco: frame chosen so no disputed boundary is in view, `fade: true`).
+- `node atlas_map.mjs "<English name as in world-atlas>" 900 900 50m map.svg` (use `10m` for small countries) writes the gold silhouette SVG; `wh` = its width/height. Scotland, England, Wales and Northern Ireland have their own outline (never draw the whole United Kingdom for them). Look at the result: island nations spread far apart may need the main island only; countries with a disputed border should get a neutral regional framing (see Morocco: frame chosen so no disputed boundary is in view, `fade: true`).
 - Upload the SVG as a canvas asset (Artifact `publish`, `url` = canvas, `asset: true`) → blob id; copy the SVG into the assets dir as `<id>.svg`.
 - Add the country to `countries.json`: `no` = `state.next_no`, `name` (CamelCase, used in file names), `guest`, `blob`, `wh` [w,h], `display` (English name for captions), `tag` (hashtag), optional `short` (stamp/footer label when the name is long) and `fade`, and `music`: one track typical of the country but not the cliché (modern or less obvious; never the stereotypical genre) — verify the track exists via web search.
 
