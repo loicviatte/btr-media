@@ -1,0 +1,138 @@
+{
+ "country": "SCOTLAND",
+ "country_lines": [
+  "SCOTLAND"
+ ],
+ "s2": {
+  "answer": "YES.",
+  "p1": "Glasgow was a dance-hall city: the **Plaza** opened in 1922, the **Locarno** in 1926. **Dancesport Scotland** was set up in 1945.",
+  "p2": "WDSF expelled it in 2022, along with its Welsh counterpart. Since 2024, the UK’s full WDSF member is the **British DanceSport Federation**."
+ },
+ "s3": {
+  "number": "80+",
+  "line1": "dance halls",
+  "line2": "in Glasgow",
+  "p": "during World War II, the peak of a **golden age** of social dancing that ran from 1914 to the mid-1950s, when rock ’n’ roll won over the young."
+ },
+ "s4": {
+  "top": "Donnie",
+  "key": "BURNS",
+  "bottom": "14 times",
+  "p1": "From **Hamilton**, he joined a dance school in Glasgow’s Gorbals. With **Gaynor Fairweather**, he won ==14 world Latin titles==, 13 of them in a row.",
+  "p2": "A Guinness World Record. Appointed MBE in 1991, he has been **president of the World Dance Council** since 2005."
+ },
+ "s5": [
+  {
+   "name": "HIGHLAND",
+   "meta": "200+ YEARS · HIGHLAND GAMES",
+   "p": "Solo, precise footwork, mostly to the **bagpipes**: the Fling, the Sword Dance. Once danced only by men, today about **95% of dancers** are female."
+  },
+  {
+   "name": "CEILIDH",
+   "meta": "GAELIC FOR ‘VISIT’ · WEDDINGS",
+   "p": "A caller teaches each dance on the spot: **Strip the Willow**, the Gay Gordons, the Eightsome Reel. Fiddle and accordion, at weddings, Hogmanay and Burns Night."
+  }
+ ],
+ "s6": {
+  "top": "No",
+  "key": "KILTS",
+  "bottom": "until 1782",
+  "y1": "1746",
+  "y2": "1782",
+  "p": "After **Culloden**, a 1746 law banned Highland dress, soldiers aside. The Seann Triubhas, ‘old trousers’, is said to celebrate the kilt’s return."
+ },
+ "s7": {
+  "year": "1950",
+  "line1": "Two world",
+  "line2": "bodies born",
+  "p": "In Stirling, the **Scottish Official Board of Highland Dancing**. In Edinburgh, the International Council of Ballroom Dancing, today the **World Dance Council**.",
+  "tag": "COWAL 2026",
+  "p2": "A dancer from **Scone** wins the junior World Highland Dancing title: ==the only Scottish winner== of the three world crowns."
+ },
+ "sources": [
+  {
+   "claim": "Glasgow golden age of social dancing 1914 to mid-1950s; Plaza 1922, Locarno 1926; at least eighty dance halls during WWII; decline with rock 'n' roll",
+   "url": "https://theglasgowstory.com/story/?id=TGSEB04"
+  },
+  {
+   "claim": "Dancesport Scotland was set up in 1945 to encourage amateur dancing in Scotland (Scotsman, c. 2010)",
+   "url": "https://www.scotsman.com/arts-and-culture/strictly-for-real-the-resurgance-of-ballroom-dancing-1685299"
+  },
+  {
+   "claim": "DanceSport Scotland (DSS) and DanceSport Wales (DSW) listed under NMB expelled, 7 May 2022",
+   "url": "https://www.worlddancesport.org/WDSF/Membership/Membership-update"
+  },
+  {
+   "claim": "British DanceSport Federation: full WDSF member for the United Kingdom since 25 October 2024",
+   "url": "https://worlddancesport.org/Members/British-DanceSport-Federation-1951"
+  },
+  {
+   "claim": "Burns and Fairweather: 14 World Latin titles, 13 consecutive World Professional Latin titles; Guinness World Record",
+   "url": "https://www.guinnessworldrecords.com/world-records/69607-most-successful-latin-american-dancing-partnership"
+  },
+  {
+   "claim": "Donnie Burns from Hamilton, joined a dance school in Glasgow's Gorbals",
+   "url": "https://www.pressreader.com/uk/sunday-mail-uk/20220925/282303914004717"
+  },
+  {
+   "claim": "Donnie Burns: Scottish, 14-time World Professional Latin champion, MBE 1991 Birthday Honours, WDC President since 2005",
+   "url": "https://en.wikipedia.org/wiki/Donnie_Burns"
+  },
+  {
+   "claim": "Donnie Burns MBE signs as WDC President; WDC established 22 September 1950 in Edinburgh as ICBD",
+   "url": "https://www.wdcdance.com/"
+  },
+  {
+   "claim": "ICBD founded during a dance congress in Edinburgh, 22 September 1950",
+   "url": "https://www.britishdancecouncil.com/history-of-the-bdc-and-wdc/"
+  },
+  {
+   "claim": "Scottish Official Board of Highland Dancing formed 15 January 1950 in Stirling; Highland dancing mainly solo, bagpipes most common, Fling, Sword Dance",
+   "url": "https://rscds.org/learn/what-scottish-country-dance-music/what-highland-dancing"
+  },
+  {
+   "claim": "RSOBHD formed in 1950 as the World Governing Body for Highland Dancing",
+   "url": "https://rsobhd.net/"
+  },
+  {
+   "claim": "Highland Fling: no clear evidence before the late 18th century; competitions at Highland Games",
+   "url": "https://tracscotland.org/highland-dance/"
+  },
+  {
+   "claim": "Highland dancing moved from an exclusively male pursuit to more than 95% female dancers; Seann Triubhas means 'old trousers', celebrates return of the kilt after the ban ended in 1782",
+   "url": "https://www.historic-uk.com/HistoryUK/HistoryofScotland/Highland-Dancing/"
+  },
+  {
+   "claim": "Ceilidh from Gaelic for 'visit'; caller; Strip the Willow, Gay Gordons, Eightsome Reel; fiddle and accordion; weddings, Burns Night, Hogmanay",
+   "url": "https://www.scotlandshop.com/tartanblog/what-is-a-ceilidh"
+  },
+  {
+   "claim": "Ceilidh etymology (Old Irish cele, Gaelic 'visit'); ceilidh bands common at weddings in 2020s Scotland",
+   "url": "https://en.wikipedia.org/wiki/C%C3%A8ilidh"
+  },
+  {
+   "claim": "Dress Act 1746 (royal assent 12 Aug 1746, after Culloden) banned Highland dress, soldiers exempt; repealed 1 July 1782",
+   "url": "https://en.wikipedia.org/wiki/Dress_Act_1746"
+  },
+  {
+   "claim": "Glasgow had 256 venues licensed for public dancing in the 1930s (corroborates scale of the dance-hall scene)",
+   "url": "https://www.lrb.co.uk/v38/n01/tom-crewe/warrior-lover-villain-spiv"
+  },
+  {
+   "claim": "Donnie Burns born in Hamilton; 14 WDC World Pro Latin titles (13 consecutive 1984-1996, plus 1998); MBE 1991; WDC president since 2005, still in post July 2026",
+   "url": "https://lodance.app/legends/donnie-burns"
+  },
+  {
+   "claim": "Highland dancing originally performed only by men; today competitions about 95% female",
+   "url": "https://www.scotlandshop.com/tartanblog/history-highland-dancing"
+  },
+  {
+   "claim": "Cowal 2026 World Championship results: Junior world champion Connie Urquhart, Scone",
+   "url": "https://cowalgathering.com/result/highland-dancing-2026/"
+  },
+  {
+   "claim": "Scottish Parliament motion S7M-01285 (21 Sep 2026): Perthshire dancer Connie Urquhart Junior World Highland Dance champion at Cowal Gathering, Dunoon; only Scottish winner of the three age-category world titles",
+   "url": "https://www.parliament.scot/chamber-and-committees/votes-and-motions/S7M-01285"
+  }
+ ]
+}

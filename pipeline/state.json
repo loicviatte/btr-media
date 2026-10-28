@@ -1,7 +1,11 @@
 {
- "next_no": 12,
- "processed_srt": [],
- "last_run": null,
+ "next_no": 13,
+ "processed_srt": [
+  "1wExaKWVmgGZ8eR1xP6NpBdgV4tpCT4JW"
+ ],
+ "last_run": "2026-10-28T14:01Z",
  "notes": "next_no = stamp number for the next World Atlas country. processed_srt = Drive file ids already handled. processed_episodes = episodes already handled, as 'YYYY-MM-DD guest name' (covers runs started by the website signal and by Drive).",
- "processed_episodes": []
+ "processed_episodes": [
+  "2026-10-28 Oti Mabuse (EP13 part 2)"
+ ]
 }
