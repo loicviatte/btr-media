@@ -1,0 +1,114 @@
+{
+ "country": "NAURU",
+ "country_lines": [
+  "NAURU"
+ ],
+ "s2": {
+  "answer": "NOT REALLY.",
+  "p1": "No WDSF member federation: Oceania’s only two are **Australia** and **New Zealand**. We found no record of a ballroom or Latin school or competition here.",
+  "p2": "Music and dance are among Nauru’s most popular forms of expression, often at **festivals and celebrations**. But ==the written record we found is thin==."
+ },
+ "s3": {
+  "number": "9:30",
+  "line1": "p.m.: a",
+  "line2": "conch call",
+  "p": "ended the dance. Under colonial-era **1936 rules**, the district constable had to sound his shell, the dobwu, on dancing days: Wednesdays, Saturdays, secular holidays."
+ },
+ "s4": {
+  "top": "The",
+  "key": "KAWADA",
+  "bottom": "strings",
+  "p1": "Not dance, but hands. Nauru’s string figures are among the **most complex in the world**. Many, called kawada, go back to contests among young men.",
+  "p2": "Nauruan strings ran **over 4.5 metres**, against the usual 1.8. Honor Maude’s ==1971 book== gathered well over a hundred figures."
+ },
+ "s5": [
+  {
+   "name": "DOGOROPA",
+   "meta": "DANCE WITH STICKS · 9 GODS",
+   "p": "Once a **religious ritual** to call nine gods of ancient Nauru, per the Expo 2012 blog. In **1994**, ten 11-year-olds from Nauru danced it in Fukuoka, Japan."
+  },
+  {
+   "name": "FRIGATE BIRD",
+   "meta": "‘ITI’ · ARTS FESTIVALS 1985, 1988",
+   "p": "Sixth-graders from Nauru Primary School presented it at the **Festival of Pacific Arts**: boys clapped and sang, girls portrayed the birds’ flight and perching."
+  }
+ ],
+ "s6": {
+  "top": "No",
+  "key": "MIXED",
+  "bottom": "dancing",
+  "y1": "1936",
+  "y2": "",
+  "p": "“Strictly forbidden” by the colonial-era Administrator in **1936**. Men attending had to carry lamps. Penalty: 10 shillings, up to a month in jail, or both."
+ },
+ "s7": {
+  "year": "2012",
+  "line1": "Dogoropa at",
+  "line2": "the Expo",
+  "p": "On Nauru’s National Day at **Expo 2012 Yeosu**, in Korea, the **Yaren Youth Group** performed the Dogoropa in the Expo Hall.",
+  "tag": "EXPO 2027",
+  "p2": "Nauru is due in Belgrade. In January 2026, the Expo’s site listed ==among its best-known dances== Ekawada, Dogoropwa, Itti and Anabar amin keramon."
+ },
+ "sources": [
+  {
+   "claim": "WDSF Oceania members: 2 (member page states 2 without naming them on page 1)",
+   "url": "https://www.worlddancesport.org/Members"
+  },
+  {
+   "claim": "WDSF Oceania members are Australia and New Zealand; Nauru not listed",
+   "url": "https://en.wikipedia.org/wiki/World_DanceSport_Federation"
+  },
+  {
+   "claim": "Music and dance among the most popular forms of expression in Nauru; celebrations and festivals often involve rhythmic singing and dancing",
+   "url": "https://www.worldatlas.com/articles/the-culture-of-nauru.html"
+  },
+  {
+   "claim": "Native Dancing Regulations 1936 (Administration Order No. 1 of 1936, dated 4 July 1936, signed by Administrator Rupert C. Garsia): days allowed, 9.30 p.m. conch (dobwu) sounded by District Constable, lamps for males, 'Mixed Dancing (male and female) is strictly forbidden', penalty 10s. fine and/or up to one month",
+   "url": "https://paclii.org/nr/legis/sub_leg/nao1922ndr1936531"
+  },
+  {
+   "claim": "Nauruan string figures among the most complex in the world; many called kawada, related to contests among young men; strings over 4.5 m vs 1.8 m; Honor Maude, The String Figures of Nauru Island (1971), well over a hundred figures",
+   "url": "https://irf.fhnw.ch/server/api/core/bitstreams/d7964214-ad4a-48af-ae68-d692c3049066/content"
+  },
+  {
+   "claim": "H.C. Maude, The String Figures of Nauru Island, 1971, Libraries Board of South Australia (cross-check)",
+   "url": "https://isfa-jp.org/explain/nauru.html"
+  },
+  {
+   "claim": "Dogoropa once a religious ritual to call 9 gods of ancient Nauru; performed by Yaren Youth Group at the Expo Hall on Nauru's National Day, 7 Aug 2012, Expo 2012 Yeosu Korea official blog",
+   "url": "https://2012expo.wordpress.com/2012/08/07/d-5-lets-meet-the-world-nauru/"
+  },
+  {
+   "claim": "Dogoropa a dance with sticks; ten eleven-year-old boys and girls performed it at the Children's Convention in Fukuoka, 1994; frigate bird (iti) danced by Nauru Primary School sixth-graders at the Pacific Festival of Arts 1985 and 1988, boys clapping and singing, girls portraying flight and perching (Wikipedia, citing Garland Encyclopedia of World Music vol. 9, p. 450; Garland not opened)",
+   "url": "https://en.wikipedia.org/wiki/Nauruan_art"
+  },
+  {
+   "claim": "Same dance details (frigate bird dance and dogoropa as known contemporary dances)",
+   "url": "https://en.wikipedia.org/wiki/Culture_of_Nauru"
+  },
+  {
+   "claim": "Nauru at Expo 2027 Belgrade (15 May to 15 Aug 2027); best-known traditional dances Ekawada, Dogoropwa, Itti, Anabar amin keramon (article dated 26 Jan 2026)",
+   "url": "https://expobelgrade2027.org/en/news/oceania-in-serbia-nauru-on-its-way-to-expo-2027-belgrade"
+  },
+  {
+   "claim": "Same four dance names, Serbian press, 17 Jan 2026 (cross-check, likely the same origin)",
+   "url": "https://biznis.kurir.rs/info-biz/9888438/republika-nauru-potvrdila-ucesce-na-expo-2027"
+  },
+  {
+   "claim": "WDSF member detail: New Zealand, Oceania, Full",
+   "url": "https://worlddancesport.org/Members/New-Zealand-Dancesport-Association-1792"
+  },
+  {
+   "claim": "WDSF member detail: Australia, Oceania, Full",
+   "url": "https://www.worlddancesport.org:443/Member/Detail/Dancesport-Australia-Ltd.-1744"
+  },
+  {
+   "claim": "Colonial-era context: Administrator Rupert C. Garsia, League mandate",
+   "url": "https://en.wikipedia.org/wiki/List_of_colonial_governors_of_Nauru"
+  },
+  {
+   "claim": "Nauru listed as Expo 2027 participant (Naoero)",
+   "url": "https://www.expobelgrade2027.org/en/participants"
+  }
+ ]
+}

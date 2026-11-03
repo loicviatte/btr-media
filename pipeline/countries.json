@@ -158,5 +158,18 @@
   "display": "Scotland",
   "tag": "Scotland",
   "music": "“Taransay”, Elephant Sessions"
+ },
+ "nauru": {
+  "no": 13,
+  "name": "Nauru",
+  "guest": "Hannah Trevor",
+  "blob": "26fb9cd1a23b6e53eb5348e731c4c5d8",
+  "wh": [
+   762,
+   900
+  ],
+  "display": "Nauru",
+  "tag": "Nauru",
+  "music": "“Eko Dogin”, Rina Appi & Martin Detenamo"
  }
 }
