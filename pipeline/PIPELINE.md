@@ -64,4 +64,3 @@ One message: country + guest + No., the two dates/times, the music to add, the t
 - Publish automatically (always `autoPublish: false`).
 - Commit fonts or anything other than images meant to be published to the public repo.
 - Invent a fact, a country or a guest name.
-- Round or smooth a country outline: rounded shapes are forbidden. Use the outline from `atlas_map.mjs` as is, even when it is coarse (small islands).
