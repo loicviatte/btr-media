@@ -6,7 +6,7 @@ Break The Routine (BTR) is a DanceSport podcast (Marius Iepure, Dance United). I
 - Media repo (public): `loicviatte/btr-media` — images in `world-atlas/<NN-slug>/<01..08>.jpg`, pipeline in `pipeline/`.
 - Public image URL: `https://raw.githubusercontent.com/loicviatte/btr-media/main/<path>`.
 - Google Drive SRT drop folder: `BREAKTHEROUTINE/SRT`, folder id `1OF0ALQxvNZb2Qc5TqYURbx04BDe4Kk5-` (parent BREAKTHEROUTINE `1JvmluI7XZpxuvSWyVIerhyyuOOrfKP6S`).
-- Design canvas: `https://claude.ai/artifact/7VZwW93DJtrR3ftSKu9zyv` (page id `carousels`). Font and logo assets live there: `c4d57da8906396cc558640fd45d2719a` (Monument Extended 800, woff2), `97d5a4a904e3ab62b8ced0b106499458` (400, woff2), `e440a533f995f68292ba052bdcdb1dd8` (BTR logo Secondary white, png). The fonts are licensed: never commit them to the public repo.
+- Design canvas: `https://claude.ai/artifact/W7mTB9MisKJTUJkP1z29jy` (page id `carousels`). Font and logo assets live there: `902b5c20321afe94719b3a2f767afd11` (Monument Extended 800, woff2), `1c07ca6aa0a02212c9173fb95f3ec98b` (400, woff2), `3d43452e3d2ea5c74edf55dea3f658a8` (BTR logo Secondary white, png). The fonts are licensed: never commit them to the public repo.
 - Metricool: brand blogId `7665642`, timezone `Europe/London`, Instagram + TikTok `@breaktheroutinepodcast`.
 - State: `pipeline/state.json` (`next_no` = stamp number for the next country; `processed_srt` = Drive ids already handled). `pipeline/countries.json` = every country done so far.
 

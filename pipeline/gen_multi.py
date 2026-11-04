@@ -12,9 +12,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 
 COUNTRIES = {k: v for k, v in json.load(open(os.path.join(HERE, "countries.json"))).items()}
 
-LOGO = "/_blob/e440a533f995f68292ba052bdcdb1dd8"
-F800 = "/_blob/c4d57da8906396cc558640fd45d2719a"
-F400 = "/_blob/97d5a4a904e3ab62b8ced0b106499458"
+LOGO = "/_blob/3d43452e3d2ea5c74edf55dea3f658a8"
+F800 = "/_blob/902b5c20321afe94719b3a2f767afd11"
+F400 = "/_blob/1c07ca6aa0a02212c9173fb95f3ec98b"
 GOLD, NAME_GOLD = "#fecb7a", "#fcdf9a"
 HAZE = ("linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 40%, rgba(137,118,58,0.10) 55%, "
         "rgba(159,137,69,0.16) 65%, rgba(180,154,79,0.24) 75%, rgba(199,171,88,0.36) 85%, "
@@ -32,8 +32,8 @@ class Meter:
         self.p = sync_playwright().start()
         self.b = self.p.chromium.launch()
         self.pg = self.b.new_page()
-        f800 = f"file://{ASSETS}/c4d57da8906396cc558640fd45d2719a.woff2"
-        f400 = f"file://{ASSETS}/97d5a4a904e3ab62b8ced0b106499458.woff2"
+        f800 = f"file://{ASSETS}/902b5c20321afe94719b3a2f767afd11.woff2"
+        f400 = f"file://{ASSETS}/1c07ca6aa0a02212c9173fb95f3ec98b.woff2"
         tmp = os.path.join(HERE, "_meter.html")
         open(tmp, "w").write(f"""<html><head><style>@font-face{{font-family:M;src:url('{f800}');font-weight:800}}
         @font-face{{font-family:M;src:url('{f400}');font-weight:400}}</style></head><body><span id=s style="font-family:M;font-weight:800;font-size:100px;white-space:nowrap">x</span></body></html>""")
