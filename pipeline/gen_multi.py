@@ -163,8 +163,11 @@ def build(slug):
     lines = c.get("country_lines") or [c["country"]]
     cfg["label"] = c["country"] if len(c["country"]) <= 22 else cfg.get("short", lines[0])
     stamp_sub = cfg.get("short") or (c["country"] if len(c["country"]) <= 12 else lines[0])
-    first, *rest = cfg["guest"].upper().split(" ", 1)
-    last = rest[0] if rest else ""
+    if cfg.get("guest_lines"):  # optional manual split, e.g. ["Lene James", "Mikkelsen"]
+        first, last = [x.upper() for x in cfg["guest_lines"]]
+    else:
+        first, *rest = cfg["guest"].upper().split(" ", 1)
+        last = rest[0] if rest else ""
     out = []
 
     # ---- 1 cover ----

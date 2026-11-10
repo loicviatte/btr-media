@@ -171,5 +171,22 @@
   "display": "Nauru",
   "tag": "Nauru",
   "music": "“Eko Dogin”, Rina Appi & Martin Detenamo"
+ },
+ "gambia": {
+  "no": 14,
+  "name": "Gambia",
+  "guest": "Lene James Mikkelsen",
+  "blob": "12730392521f754822191d8f7e890f9b",
+  "wh": [
+   900,
+   232
+  ],
+  "display": "The Gambia",
+  "tag": "Gambia",
+  "music": "“Fuwareyaa”, ST Brikama Boyo",
+  "guest_lines": [
+   "Lene James",
+   "Mikkelsen"
+  ]
  }
 }

@@ -1,13 +1,15 @@
 {
- "next_no": 14,
+ "next_no": 15,
  "processed_srt": [
   "1wExaKWVmgGZ8eR1xP6NpBdgV4tpCT4JW",
-  "1GlIHBqdHhBp8qhjhdZYgvuc4QTSvLrWd"
+  "1GlIHBqdHhBp8qhjhdZYgvuc4QTSvLrWd",
+  "1eWg6udsoX_GIH6MZJpZM72Qy0QAT5x2L"
  ],
- "last_run": "2026-11-03T14:22Z",
+ "last_run": "2026-11-10T14:17Z",
  "notes": "next_no = stamp number for the next World Atlas country. processed_srt = Drive file ids already handled. processed_episodes = episodes already handled, as 'YYYY-MM-DD guest name' (covers runs started by the website signal and by Drive).",
  "processed_episodes": [
   "2026-10-28 Oti Mabuse (EP13 part 2)",
-  "2026-11-02 Hannah Trever (EP14)"
+  "2026-11-02 Hannah Trever (EP14)",
+  "2026-11-05 Lene James Mikkelsen (EP15)"
  ]
 }

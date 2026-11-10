@@ -1,0 +1,143 @@
+{
+ "country": "THE GAMBIA",
+ "country_lines": [
+  "THE",
+  "GAMBIA"
+ ],
+ "s2": {
+  "answer": "NOT REALLY.",
+  "p1": "The Gambia has **no member** in the World DanceSport Federation. Its neighbour **Senegal** joined as a provisional member in 2022.",
+  "p2": "What exists: ==acrobatic rock’n’roll== at Flex Fuzion, a dance academy founded in 2017. In 2023, a Kololi hotel also ran **salsa Saturdays**."
+ },
+ "s3": {
+  "number": "10,000+",
+  "line1": "people",
+  "line2": "in 3 days",
+  "p": "came to Janjanbureh’s historic island for the **9th Kankurang and Masks Festival**, 23–25 January 2026. Over **20 masquerades** performed."
+ },
+ "s4": {
+  "top": "The first",
+  "key": "AFRICAN",
+  "bottom": "champions",
+  "p1": "In Dakar on **14 March 2026**, a Gambian couple won the A-Class title in **acrobatic rock’n’roll**, becoming the first African champions at that level.",
+  "p2": "Flex Fuzion’s team of 15 dancers came home with ==11 trophies==. Much of the trip was **self-funded**."
+ },
+ "s5": [
+  {
+   "name": "KUMPO",
+   "meta": "JOLA · FONI & CASAMANCE",
+   "p": "A whirl of **raffia palm** with a wooden stick fixed on top. The dancer spins on it, and is then seen as a **spirit**, not a person."
+  },
+  {
+   "name": "ZIMBA",
+   "meta": "WOLOF · “LION DANCER”",
+   "p": "Born from the tale of a hunter who calmed a **lion** with a song. Masked dancers with painted faces pick spectators to dance, and ==ask for dalasi== if unimpressed."
+  }
+ ],
+ "s6": {
+  "top": "No",
+  "key": "SABAR",
+  "bottom": "no party",
+  "y1": "",
+  "y2": "",
+  "p": "Many Gambians say that if there are no **sabar drums** at an occasion, nobody will go. They play at family gatherings, religious meetings, rallies and markets."
+ },
+ "s7": {
+  "year": "2008",
+  "line1": "Kankurang on",
+  "line2": "UNESCO list",
+  "p": "UNESCO lists the **Kankurang**, a Manding initiation rite shared with **Senegal**. Its masked figure, dressed in bark and leaves, does a staccato dance with **two machetes**.",
+  "tag": "SINGAPORE 2026",
+  "p2": "The Kumpo went abroad: Gambia’s **Berending Kumpo Association** danced at Singapore’s ==Esplanade==, 1–3 May 2026."
+ },
+ "sources": [
+  {
+   "claim": "WDSF African members listed (Botswana, South Africa, Lesotho, Namibia, Cameroon, DR Congo, Morocco, Senegal, Tunisia, Uganda, Zimbabwe); Gambia not listed",
+   "url": "https://en.wikipedia.org/wiki/World_DanceSport_Federation"
+  },
+  {
+   "claim": "Cross-check: WDSF 100 members (Oct 2024), latest African admission Nigeria; Gambia not mentioned",
+   "url": "https://worlddancesport.org/News/wdsf-celebrates-100-national-member-bodies-presidium-meeting-3499"
+  },
+  {
+   "claim": "Cross-check: WDSF Global Forum June 2026, Seychelles to become 100th member body; Gambia not mentioned",
+   "url": "https://www.worlddancesport.org/News/2026-wdsf-global-forum-vision-growth-interview-3850"
+  },
+  {
+   "claim": "Senegalese Dance Sport Federation: WDSF provisional member since 31 March 2022",
+   "url": "https://www.worlddancesport.org/Members/Senegalese-Dance-Sport-Federation--NCP-of-Dance-Sport-1935"
+  },
+  {
+   "claim": "WDSF members page (Nov 2026): 99 members, 13 in Africa (= Wikipedia's 11 + Nigeria 2024 + Seychelles 2026); full list not readable, Gambia never mentioned in any WDSF source found",
+   "url": "https://www.worlddancesport.org/Members"
+  },
+  {
+   "claim": "Salsa Night every Saturday 7:30-11 pm at Bakadaji Hotel (article dated July 2023; no 2026 confirmation found, hence past tense)",
+   "url": "https://www.my-gambia.com/mymagazine/lets-salsa-on-saturday-nights-at-bakadaji/"
+  },
+  {
+   "claim": "Bakadaji Hotel is in Kololi, Bertil Harding Highway (2026 listing is actually a BBQ night, used for location only)",
+   "url": "https://www.my-gambia.com/event/salsa-evening-at-bakadaji-hotel/"
+  },
+  {
+   "claim": "Flex Fuzion founded 2017, trained 1,000+ young people; WFADS World Cup Moscow 23 Nov 2025, 6th, top African nation",
+   "url": "https://gambiadaily.gov.gm/flex-fuzion-dance-academy-shines-world-cup-elevates-gambia-top-african-spot"
+  },
+  {
+   "claim": "Flex Fuzion / Ndey Fatou Jabang lead the WFASD Regional Committee for Africa (acrobatic rock'n'roll, acro swing, boogie woogie), Nov 2024",
+   "url": "https://thepoint.gm/africa/gambia/national-news/flex-fuzion-dance-academy-leads-africas-regional-acrobatic-dance-committee"
+  },
+  {
+   "claim": "Yasai Joof, first acrobatic rock'n'roll coach in The Gambia; Abu Dhabi Worlds Dec 2024, Dakar World Cup March 2025 semifinals",
+   "url": "https://standard.gm/flex-fuzion-director-is-acrobatic-rock-roll-dance-sports-coach"
+  },
+  {
+   "claim": "African Championship Dakar 14 March 2026: 15 dancers, 2 coaches, Gambian couple 1st in A-Class acrobatic rock'n'roll, 'first-ever African champions in Acrobatic Rock'n'Roll at that level', 11 trophies, much of participation self-funded",
+   "url": "https://thepoint.gm/africa/gambia/national-news/gambia-makes-history-at-african-dance-championship-in-dakar"
+  },
+  {
+   "claim": "Cross-check: 2026 WFADS African Championship, Centre Blaise Senghor Dakar, Gambian couple A-Class title, first African champions in that category, 15 dancers, 11 trophies",
+   "url": "https://standard.gm/team-gambia-makes-history-at-the-2026-world-federation-of-acrobatic-dances-and-dance-sports-african-championship-in-dakar"
+  },
+  {
+   "claim": "9th Janjanbureh Kankurang and Masks Festival, 23-25 Jan 2026, McCarthy Island, over 10,000 people, over 20 masquerades",
+   "url": "https://thepoint.gm/africa/gambia/headlines/celebrating-9th-edition-of-janjanbureh-kankurang-festival-a-landmark-reflection-of-soul-of-the-nation"
+  },
+  {
+   "claim": "Cross-check: over 10,000 people at the 9th Kankurang Festival, 23-25 Jan 2026 (Ministry of Tourism, Arts and Culture)",
+   "url": "https://gambiadaily.gov.gm/over-10-thousand-people-participated-kankurang-festival-janjangbureh-tourism-ministry"
+  },
+  {
+   "claim": "Cross-check: festival dates 23-25 Jan 2026, Janjanbureh island town",
+   "url": "https://www.my-gambia.com/article/experience-janjanbureh-kankurang-festival-2026/"
+  },
+  {
+   "claim": "Kumpo: Jola masquerade of The Gambia, Senegal, Guinea-Bissau; raffia palm suit, wooden stick fixed to a hat, whirling spins, regarded as a spirit; Berending Kumpo Association at Esplanade Singapore, 1-3 May 2026",
+   "url": "https://www.esplanade.com/whats-on/festivals-and-series/a-tapestry-of-sacred-music/2026/kumpo-spirit-protector-and-other-masquerade-dances"
+  },
+  {
+   "claim": "Kumpo: Jola, mainly around Foni and the Casamance, palm fibre, long stick; Zimba: Wolof (Lebou) masquerade born from the story of a hunter who calmed a lion with a song; headpiece and face painting",
+   "url": "https://www.my-gambia.com/mymagazine/most-significant-masquerades-of-the-gambia/"
+  },
+  {
+   "claim": "Kumpo: dancer covered in grass twirls balanced on a pole on his head (cross-check)",
+   "url": "https://accessgambia.com/information/cultural-dance.html"
+  },
+  {
+   "claim": "Simba/Zimba: Wolof masked dance, 'lion dancer', black and yellow face paint, picks audience members to dance and requires dalasi if not pleased by their performance",
+   "url": "https://accessgambia.com/information/simba-mask.html"
+  },
+  {
+   "claim": "Sabar: 'if there aren't sabars at an occasion, nobody will go'; played at family gatherings, Catholic Church meetings, political rallies, Baay-Fall meetings, marketplaces",
+   "url": "https://accessgambia.com/msite/m-sabarr.html"
+  },
+  {
+   "claim": "Cross-check: sabar played in Senegal, The Gambia and Mauritania, at weddings, festivals and other events",
+   "url": "https://en.wikipedia.org/wiki/Sabar"
+  },
+  {
+   "claim": "Kankurang, Manding initiatory rite (Senegal and Gambia), inscribed 2008 (proclaimed 2005); mask of faara bark and fibre, leaves; staccato dance wielding two machetes",
+   "url": "https://ich.unesco.org/en/RL/kankurang-manding-initiatory-rite-00143"
+  }
+ ]
+}
