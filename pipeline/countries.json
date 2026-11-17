@@ -188,5 +188,22 @@
    "Lene James",
    "Mikkelsen"
   ]
+ },
+ "fiji": {
+  "no": 15,
+  "name": "Fiji",
+  "guest": "Joanna Wargala",
+  "blob": "4d0b73c4cf84e7212e890db56795e3f8",
+  "wh": [
+   900,
+   656
+  ],
+  "display": "Fiji",
+  "tag": "Fiji",
+  "music": "“Kavoro”, Paradise Rootz & George “Fiji” Veikoso",
+  "guest_lines": [
+   "Joanna",
+   "Wargala"
+  ]
  }
 }
